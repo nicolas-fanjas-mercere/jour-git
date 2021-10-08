@@ -1,0 +1,25 @@
+
+
+
+table,
+td {
+    border: 5px solid #333;
+
+    color: black;
+
+}
+
+table {
+    position: relative;
+    top: 400px;
+    left: 600px;
+    right: 600px;
+}
+th {
+    border: 5px solid #333;
+}
+
+body {
+    background-image: url(701049f25a0a5c7053ef427308857973.gif);
+    background-size: 100%;
+}
